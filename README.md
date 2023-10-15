@@ -2,7 +2,7 @@
 
 Welcome to our custom landing page for a Travel website! This project is built using HTML, CSS, and a touch of JavaScript to create a stunning and user-friendly interface for travelers with a video background.
 
-![Travel Website](Outputs/VB Output 1.png)
+![Travel Website](Output/VB%20Output%201.png)
 
 ## Features
 
@@ -11,7 +11,7 @@ Welcome to our custom landing page for a Travel website! This project is built u
 - Information-rich content to help travelers plan their trips.
 - Seamless navigation for easy exploration.
 
-![Travel Website Screenshot](Outputs/VB Output 1.png)
+![Travel Website Screenshot](outputs/VB%20Output%202.png)
 
 ## Technologies Used
 
