@@ -11,7 +11,7 @@ Welcome to our custom landing page for a Travel website! This project is built u
 - Information-rich content to help travelers plan their trips.
 - Seamless navigation for easy exploration.
 
-![Travel Website Screenshot](outputs/VB%20Output%202.png)
+![Travel Website Screenshot](Output/VB%20Output%202.png)
 
 ## Technologies Used
 
